@@ -5,6 +5,7 @@ h1 {
 
 h3 {
     background-color: lightgray;
+    margin-top: 40px;
 }
 /* why does the above class not work? */
 

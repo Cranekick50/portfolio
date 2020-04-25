@@ -2,7 +2,8 @@ h1 {
     text-align: center;
 }
 
-.aboutme {
+h3 {
     background-color: lightgray;
 }
+/* why does the above class not work? */
 

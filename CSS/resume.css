@@ -176,7 +176,8 @@ a:hover, a:focus, a:active {
 }
 
 @media (max-width: 600px) {
-  .media {
-    flex-direction: column
+  .w-100.media {
+      flex-direction: column
   }
+  
 }

@@ -10,14 +10,14 @@
       flex-direction: column;
   }
     .pic {
-        height: 20px;
-        width: 20px;
+        height: 100px;
+        width: 200px;
     }
 }
 @media (min-width: 601px) {
     .pic {
         height: 200px;
-        width: 200px;
+        width: 400px;
     }
 }
 

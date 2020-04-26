@@ -180,5 +180,7 @@ a:hover, a:focus, a:active {
 }
 
 @media (min-width: 500px){
-  
+  .media {
+    display: flex;
+  }
 }

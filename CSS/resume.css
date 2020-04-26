@@ -179,6 +179,8 @@ a:hover, a:focus, a:active {
   display:flex;
   flex-wrap: wrap;
   flex: 1 1 200px;
+}
 
-
+div.picture {
+  flex: 1 1 200px;
 }
